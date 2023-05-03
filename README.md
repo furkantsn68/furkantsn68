@@ -5,7 +5,7 @@ Ben Tarihçiyim. Teknolojinin gelişmelerini takip ederek, bir web sitesinin gra
 🔭 Şu anda nelerle ilgileniyorum?
 
 Şu anda web sitelerinin grafik kullanıcı arayüzlerinin tasarımı ve geliştirilmesi için gerekli olan teknolojileri öğreniyorum.✦
-HTML, CSS ve JavaScript gibi teknolojiler hakkında çalışmalar yapıyorum. 
+HTML, CSS, Bootstrap, JavaScript ve React gibi teknolojiler hakkında çalışmalar yapıyorum. 
 
 🚀 İlgi Alanlarım
 
