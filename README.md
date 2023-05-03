@@ -1,4 +1,4 @@
-Merhaba Ben Furkan Tosun  🌠
+Merhaba Ben Furkan 🌠
 
 Ben Tarihçiyim. Teknolojinin gelişmelerini takip ederek, bir web sitesinin grafik kullanıcı ara yüzünün geliştirilmesi için gerekli olan teknolojileri öğrenmek için eğitim almaktayım.
 
