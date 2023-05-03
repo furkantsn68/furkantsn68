@@ -1,7 +1,9 @@
 Merhaba Ben Furkan Tosun  🌠
+
 Ben Tarihçiyim. Teknolojinin gelişmelerini takip ederek, bir web sitesinin grafik kullanıcı ara yüzünün geliştirilmesi için gerekli olan teknolojileri öğrenmek için eğitim almaktayım.
 
 🔭 Şu anda nelerle ilgileniyorum?
+
 Şu anda web sitelerinin grafik kullanıcı arayüzlerinin tasarımı ve geliştirilmesi için gerekli olan teknolojileri öğreniyorum.✦
 HTML, CSS ve JavaScript gibi teknolojiler hakkında çalışmalar yapıyorum. 
 
