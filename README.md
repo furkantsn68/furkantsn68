@@ -6,6 +6,7 @@ Ben Tarihçiyim. Teknolojinin gelişmelerini takip ederek, bir web sitesinin gra
 HTML, CSS ve JavaScript gibi teknolojiler hakkında çalışmalar yapıyorum. 
 
 🚀 İlgi Alanlarım
+
 ✦ Web tasarımı ve kullanıcı arayüzü geliştirme
 
 
