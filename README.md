@@ -1,11 +1,21 @@
-### Hi there 👋
-**furkantsn68/furkantsn68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Merhaba Ben Furkan Tosun  🌠
+Ben Tarihçiyim. Teknolojinin gelişmelerini takip ederek, bir web sitesinin grafik kullanıcı ara yüzünün geliştirilmesi için gerekli olan teknolojileri öğrenmek için eğitim almaktayım.
 
-Here are some ideas to get you started:
+🔭 Şu anda nelerle ilgileniyorum?
+Şu anda web sitelerinin grafik kullanıcı arayüzlerinin tasarımı ve geliştirilmesi için gerekli olan teknolojileri öğreniyorum.✦
+HTML, CSS ve JavaScript gibi teknolojiler hakkında çalışmalar yapıyorum. 
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on project
-- 💬 Ask me about anything
-- 📫 How to reach me: furkantosun27693@gmail.com
-- ⚡ Fun fact: HTML, CSS, BOOTSTRAP, JAVASCRİPT
+🚀 İlgi Alanlarım
+✦ Web tasarımı ve kullanıcı arayüzü geliştirme
+
+
+💻
+HTML5 CSS3 SASS
+
+React React Router
+Redux
+
+JavaScript TypeScript Firebase
+
+Bootstrap MUI Semantic UI React TailwindCSS Figma
+
