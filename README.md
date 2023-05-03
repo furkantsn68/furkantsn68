@@ -10,7 +10,8 @@ HTML, CSS ve JavaScript gibi teknolojiler hakkında çalışmalar yapıyorum.
 
 
 💻
-HTML5 CSS3 SASS
+![image](https://user-images.githubusercontent.com/130418854/236064208-22d85c0c-bd28-403c-a61c-16a619260b8b.png)
+ CSS3 SASS
 
 React React Router
 Redux
